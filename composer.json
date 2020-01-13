@@ -1,0 +1,16 @@
+{
+    "name":"innomedia/googlemaps",
+    "description": "Silverstripe 4 Google Maps Implementation",
+    "authors": [
+      {
+        "name":"Innomedia AG",
+        "email": "bk@innomedia.de"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "googlemaps\\": "src/"
+      }
+    }
+  }
+  
